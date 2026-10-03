@@ -1,0 +1,20 @@
+# Ambienti e dipendenze
+backend/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+
+# Dati personali: foto di prova, quarantena e registri
+test_data/
+data/
+
+# Varie
+.env
+*.log
+*.tmp
+.DS_Store
+.idea/
+.vscode/
